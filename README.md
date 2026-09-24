@@ -1,4 +1,4 @@
-# 👻 InVidious — Multiplayer Horror Game (Unity)
+# 👻 InVidious - Multiplayer Horror Game (Unity)
 
 > *Rise to banish the darkness, or embrace it.*
 
@@ -76,47 +76,3 @@ Each match lasts 12 real minutes (11:00 PM → 5:00 AM in-game):
 | `Data Manager.cs`, `DataPlayerLoad.cs`, `PassDataSource.cs` | Player data persistence and passing data between scenes |
 | `Name.cs`, `nameLobby.cs` | Player nametags and lobby name display |
 | `role - Copy.cs`, `value_setting.cs` | Role data and settings value display |
-
-## 🎹 Controls
-
-<table>
-<tr><th>Exorcist</th><th>Ghost</th></tr>
-<tr valign="top"><td>
-
-| Key | Action |
-|---|---|
-| WASD | Move |
-| Space | Jump |
-| Ctrl | Run |
-| Shift | Crouch |
-| E | Toggle torch |
-| R | Pick up item |
-| Q | Throw item |
-| F | Interact |
-| H | Heal (hold) |
-| 1 / 2 | Item slots |
-| T | Use special item |
-| Tab | Switch camera |
-| C | Show controls |
-
-</td><td>
-
-| Key | Action |
-|---|---|
-| WASD | Move |
-| E | Scream |
-| R | Appear |
-| T | Teleport |
-| Q | Special (Tuyul / Wewe) |
-| Space ×2 | Fly (Kuntilanak) |
-| Right Click | Attack mode |
-| Left Click | Attack |
-| F | Disturb ritual item |
-| C | Show controls |
-
-</td></tr>
-</table>
-
-## 📝 Credits
-- Built by **Jason Kenneth Lay** for **TPA Game Programming 26-1**, Software Laboratory Center, BINUS University.
-- Base assets: [PoisonAifih/InVidious](https://github.com/PoisonAifih/InVidious)
